@@ -92,4 +92,6 @@ Execute the program
 ```
 
 # OUPUT
-![output](/output.png)
+![output](https://user-images.githubusercontent.com/119560305/211582821-f0d3fe62-b6ca-475c-91ea-0d6e0e96cb36.png)
+
+
