@@ -92,6 +92,8 @@ Execute the program
 ```
 
 # OUPUT
-![output](https://user-images.githubusercontent.com/119560305/211582821-f0d3fe62-b6ca-475c-91ea-0d6e0e96cb36.png)
+
+![output](https://user-images.githubusercontent.com/119560305/211583283-034f5e74-df38-4276-8536-ed4e57853c78.png)
+
 
 
