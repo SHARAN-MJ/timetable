@@ -92,12 +92,7 @@ Execute the program
 ```
 
 # OUPUT
-## Client Side Output :
 ![output](https://user-images.githubusercontent.com/119560305/211583283-034f5e74-df38-4276-8536-ed4e57853c78.png)
-## Server Side Output :
-![output](https://user-images.githubusercontent.com/119560305/214879668-2e9abf2b-d2f1-42d6-a40d-07add3ab4eea.png)
-## Validator :
-![output](https://user-images.githubusercontent.com/119560305/214879916-70ebb4da-74e1-41be-9abc-d890c91f34fc.png)
 
 ## RESULT
 
